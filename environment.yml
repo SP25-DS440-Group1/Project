@@ -1,0 +1,21 @@
+name: weather-gnn
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - xarray
+  - netCDF4
+  - h5netcdf
+  - scikit-learn
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pip
+  - pip:
+      - tqdm         # for progress bars (optional)
+      - networkx     # graph structure handling
