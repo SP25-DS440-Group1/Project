@@ -17,6 +17,9 @@ When arrival data is in arrival folder follow these steps.
 
 
 1. Run create_weather_data.ipynb to download and augmented arrival dataset with weather data
+    - Downloading and processing the dataset is a VERY time consuming process, taking me about an hour and a half. 
+    - For the sake of memory and storage constraints, the near 1TB of data to download is cut down to less then 100GB, then further reduced to less than 2GB for saving.
+        A lot of information is lost when reducing to 5 var from 62, and even more when reducing coord dimensions.
 
 2. Then run preprocessing.ipynb
 
