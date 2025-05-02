@@ -1,0 +1,15 @@
+# Requirements for running the project in an environment
+
+    numpy>=1.22.0
+    pandas>=1.4.0
+    scikit-learn>=1.1.0
+    tensorflow>=2.10.0
+    jax>=0.3.25
+    jaxlib>=0.3.25
+    xarray>=2022.9.0
+    zarr>=2.13.0
+    matplotlib>=3.5.1
+    seaborn>=0.11.2
+    xgboost>=1.6.1
+    tqdm>=4.64.0
+    python-dateutil>=2.8.2
