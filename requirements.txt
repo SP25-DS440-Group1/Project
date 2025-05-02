@@ -13,3 +13,5 @@
     xgboost>=1.6.1
     tqdm>=4.64.0
     python-dateutil>=2.8.2
+    gdown
+    zipfile
