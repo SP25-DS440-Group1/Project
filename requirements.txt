@@ -1,3 +1,4 @@
+ipykernel
 pandas
 numpy
 scikit-learn
@@ -5,6 +6,9 @@ tensorflow
 xgboost
 matplotlib
 scipy
-xarray
+packaging
+xarray[io]
+zarr
+numcodecs
 gcsfs
 gdown
