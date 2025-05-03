@@ -1,6 +1,6 @@
 # Project
 
-Create an environment and install dependencies in dependencies.txt
+Create an environment and install dependencies in dependencies.txt.
 I used a venv with Python 3.10.11.
 
 The arrival data can be manually downloaded from https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGJ&QO_fu146_anzr=b0-gvzr, though it is not necessary.
