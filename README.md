@@ -1,6 +1,6 @@
 # Project
 
-
+Create an environment and install dependencies in dependencies.txt
 
 The arrival data can be manually downloaded from https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGJ&QO_fu146_anzr=b0-gvzr, though it is not necessary.
 The selected period downloaded from the BTS website and the weatherbench2 api is 2020-01-01 to 2022-12-31
